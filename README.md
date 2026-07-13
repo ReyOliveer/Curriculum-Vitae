@@ -31,15 +31,6 @@ Tecnologias que estou estudando e utilizando nos meus projetos:
 
 ---
 
-### 📊 Minhas estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="165"/>
-</p>
-
----
-
 ### 📫 Onde me encontrar
 
 - 💼 LinkedIn: [linkedin.com/in/reynaldooliveira](https://linkedin.com/in/reynaldooliveira)
